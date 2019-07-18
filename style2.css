@@ -1,0 +1,78 @@
+#h1 {
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #202020;
+	margin: 0;
+	font: sans-serif;
+	font-weight: 900;
+	letter-spacing: 15px;
+}
+
+#bob {
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: black;
+	display: block;
+	margin: 0;
+	font-size: 100px;
+	font-weight: 100;
+}
+
+#h12 {
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #202020;
+	margin: 0;
+	font: sans-serif;
+	font-weight: 900;
+	letter-spacing: 15px;
+}
+
+
+#joe {
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: black;
+	display: block;
+	margin: 0;
+	font-size: 100px;
+	font-weight: 100;
+}
+
+#h13 {
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #202020;
+	margin: 0;
+	font: sans-serif;
+	font-weight: 900;
+	letter-spacing: 15px;
+}
+
+
+#billy {
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: black;
+	display: block;
+	margin: 0;
+	font-size: 100px;
+	font-weight: 100;
+}
+
+body {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
